@@ -1,0 +1,11 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="8538e096-fca1-3bd8-8236-60a2968dbdd7" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="SSBasedInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <searchConfiguration name="Some name" uuid="8538e096-fca1-3bd8-8236-60a2968dbdd7" description="Some description" suppressId="SomeSuppressId" problemDescriptor="..." text="MineHello" recursive="true" caseInsensitive="true" type="JAVA" pattern_context="default">
+        <constraint name="__context__" within="" contains="" />
+      </searchConfiguration>
+    </inspection_tool>
+  </profile>
+</component>
